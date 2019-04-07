@@ -1,9 +1,0 @@
-- Software
-  - [Getting Started](/getting-started)
-  - [Key Bindings](/key-bindings)
-  - [FAQ](/faq)
-  - [Troubleshooting](/troubleshooting)
-- RedSugar
-  - [Advanced Tips](/advanced-tips)
-  - [Advanced Configs](/advanced-configs)
-  - [Command Line Options](/command-line-options)

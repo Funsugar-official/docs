@@ -13,7 +13,7 @@
   - [Arduino UNO IO扩展板](/rs-uno-IO-shield)
   - [Arduino 机器人主板](/rs-robot)
 - Arduino RJ25接口系列(BlueSugar)
-  - [FunCore](/bs-funcore)
+  - [FunCore](zh-cn/bs-funcore)
 
   
 

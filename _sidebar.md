@@ -1,16 +1,9 @@
-- Guide
+- Software
   - [Getting Started](/getting-started)
   - [Key Bindings](/key-bindings)
   - [FAQ](/faq)
   - [Troubleshooting](/troubleshooting)
-- Advanced
+- RedSugar
   - [Advanced Tips](/advanced-tips)
   - [Advanced Configs](/advanced-configs)
   - [Command Line Options](/command-line-options)
-- <a style="display:inline;border-right-style:none;" href="/pro">PRO</a> <sup style="color:red;">NEW!</sup>
-- [Beta for Mac](/mac-beta)
-- More
-  - [Official Site](https://snipaste.com)
-  - [Download](/download)
-  - [Translation](/translation)
-  - [Changelog](/changelog)

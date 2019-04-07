@@ -1,0 +1,11 @@
+- 软件
+  - [Getting Started](/getting-started)
+  - [Key Bindings](/key-bindings)
+  - [FAQ](/faq)
+  - [Troubleshooting](/troubleshooting)
+- Arduino PH接口系列
+  - [Arduino Nano](/advanced-configs)
+  - [Arduino Nano IO扩展板](/command-line-options)
+  - [Arduino UNO R3改良版](/advanced-tips)
+  - [Arduino UNO IO扩展板](/advanced-tips)
+  - [Arduino 机器人主板](/advanced-tips)

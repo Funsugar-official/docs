@@ -9,15 +9,27 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/buble.css">
 </head>
 <body>
+  <nav>
+    <a href="#/">EN</a>
+    <a href="#/zh-cn/">中文</a>
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
 	  loadSidebar: true,
+	  loadNavbar: true,
       name: '',
       repo: ''
     }
   </script>
+  <script src="https://unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-arduino.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-cpp.min.js"></script>
+  <script src="https://unpkg.com/docsify-copy-code"></script> <!-- for chrome -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script> <!-- for firefox -->
 </body>
 </html>
